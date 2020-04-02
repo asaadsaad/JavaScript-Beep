@@ -1,2 +1,1 @@
-# asaadsaad
-beep
+# JavaScript beep()
